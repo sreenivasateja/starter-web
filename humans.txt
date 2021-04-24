@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    <tejaroy>
 
 # TECHNOLOGY COLOPHON
 
