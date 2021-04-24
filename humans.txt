@@ -13,3 +13,7 @@
 
     HTML5, CSS3, ANGULAR, NODEJS
     jQuery, Modernizr,docker
+
+# its changing
+
+    AWS,AZURE,GOOGLE CLOUD,IBM CLOUD
