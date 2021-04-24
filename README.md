@@ -1,7 +1,5 @@
-# Starter Web Repo
+# this is git practice
 
-This repository is for showing how Git and GitHub work
+## with the devops 360
 
-## Purpose
-
-Sample website with plenty of files for demos
+## succefully processing the concepts
