@@ -12,8 +12,10 @@
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3, ANGULAR, NODEJS
+<<<<<<< HEAD
     jQuery, Modernizr,docker
 
 # its changing
 
     AWS,AZURE,GOOGLE CLOUD,IBM CLOUD
+
