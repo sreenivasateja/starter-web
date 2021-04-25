@@ -17,5 +17,5 @@
 
 # its changing
 
-    AWS,AZURE,GOOGLE CLOUD,IBM CLOUD
+    AWS,AZURE,GOOGLE CLOUD,IBM CLOUD,kibana
 
